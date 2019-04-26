@@ -32,7 +32,7 @@
     "request": "^2.88.0",
     "retry-request": "^4.0.0",
     "setprototypeof": "^1.1.0",
-    "type-is": "^1.6.16",
+    "type-is": "^1.6.18",
     "wildcard-named": "^1.1.1"
   },
   "devDependencies": {
